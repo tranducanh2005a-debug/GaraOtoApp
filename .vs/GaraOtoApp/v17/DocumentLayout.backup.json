@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GaraOtoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92C22EFA-152E-4650-84B5-6CC67421CDA2}|GaraOtoApp.csproj|d:\\garaotoapp\\formquanlyxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92C22EFA-152E-4650-84B5-6CC67421CDA2}|GaraOtoApp.csproj|solutionrelative:formquanlyxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C22EFA-152E-4650-84B5-6CC67421CDA2}|GaraOtoApp.csproj|d:\\garaotoapp\\formquanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92C22EFA-152E-4650-84B5-6CC67421CDA2}|GaraOtoApp.csproj|solutionrelative:formquanlynguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C22EFA-152E-4650-84B5-6CC67421CDA2}|GaraOtoApp.csproj|D:\\GaraOtoApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C22EFA-152E-4650-84B5-6CC67421CDA2}|GaraOtoApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C22EFA-152E-4650-84B5-6CC67421CDA2}|GaraOtoApp.csproj|D:\\GaraOtoApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92C22EFA-152E-4650-84B5-6CC67421CDA2}|GaraOtoApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C22EFA-152E-4650-84B5-6CC67421CDA2}|GaraOtoApp.csproj|D:\\GaraOtoApp\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C22EFA-152E-4650-84B5-6CC67421CDA2}|GaraOtoApp.csproj|solutionrelative:formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C22EFA-152E-4650-84B5-6CC67421CDA2}|GaraOtoApp.csproj|D:\\GaraOtoApp\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92C22EFA-152E-4650-84B5-6CC67421CDA2}|GaraOtoApp.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C22EFA-152E-4650-84B5-6CC67421CDA2}|GaraOtoApp.csproj|D:\\GaraOtoApp\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C22EFA-152E-4650-84B5-6CC67421CDA2}|GaraOtoApp.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormQuanLyXe.cs [Design]",
+              "DocumentMoniker": "D:\\GaraOtoApp\\FormQuanLyXe.cs",
+              "RelativeDocumentMoniker": "FormQuanLyXe.cs",
+              "ToolTip": "D:\\GaraOtoApp\\FormQuanLyXe.cs [Design]",
+              "RelativeToolTip": "FormQuanLyXe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:18:40.781Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormQuanLyNguoiDung.cs [Design]",
+              "DocumentMoniker": "D:\\GaraOtoApp\\FormQuanLyNguoiDung.cs",
+              "RelativeDocumentMoniker": "FormQuanLyNguoiDung.cs",
+              "ToolTip": "D:\\GaraOtoApp\\FormQuanLyNguoiDung.cs [Design]",
+              "RelativeToolTip": "FormQuanLyNguoiDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:57:33.707Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GaraOtoApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\GaraOtoApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAsAAABgZmZmZmY2wB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:55:05.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GaraOtoApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\GaraOtoApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:55:03.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\GaraOtoApp\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\GaraOtoApp\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:26:34.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "D:\\GaraOtoApp\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "FormMain.Designer.cs",
+              "ToolTip": "D:\\GaraOtoApp\\FormMain.Designer.cs",
+              "RelativeToolTip": "FormMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:22:16.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\GaraOtoApp\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\GaraOtoApp\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:34:37.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
