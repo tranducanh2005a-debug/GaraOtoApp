@@ -14,7 +14,7 @@ namespace GaraOtoApp
         private void FormMain_Load(object sender, EventArgs e)
         {
 
-            // Phân quyền
+        // Phân quyền
             btnQuanLyNguoiDung.Enabled = CurrentUser.Role == 0;
             btnQuanLyXe.Enabled = CurrentUser.Role != 2;
             btnKho.Enabled = CurrentUser.Role != 2;

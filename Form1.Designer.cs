@@ -6,6 +6,7 @@
         private System.Windows.Forms.TextBox txtUser;
         private System.Windows.Forms.TextBox txtPass;
         private System.Windows.Forms.Button btnLogin;
+        private System.Windows.Forms.Button btnRegister;
         private System.Windows.Forms.Label labelUser;
         private System.Windows.Forms.Label labelPass;
         private System.Windows.Forms.PictureBox pictureBox1;
@@ -25,6 +26,7 @@
             this.txtUser = new System.Windows.Forms.TextBox();
             this.txtPass = new System.Windows.Forms.TextBox();
             this.btnLogin = new System.Windows.Forms.Button();
+            this.btnRegister = new System.Windows.Forms.Button();
             this.labelUser = new System.Windows.Forms.Label();
             this.labelPass = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -51,13 +53,24 @@
             // btnLogin
             // 
             this.btnLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.btnLogin.Location = new System.Drawing.Point(140, 191);
+            this.btnLogin.Location = new System.Drawing.Point(40, 191);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(120, 35);
             this.btnLogin.TabIndex = 2;
             this.btnLogin.Text = "Đăng nhập";
             this.btnLogin.UseVisualStyleBackColor = true;
             this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
+            // 
+            // btnRegister
+            // 
+            this.btnRegister.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.btnRegister.Location = new System.Drawing.Point(193, 191);
+            this.btnRegister.Name = "btnRegister";
+            this.btnRegister.Size = new System.Drawing.Size(120, 35);
+            this.btnRegister.TabIndex = 6;
+            this.btnRegister.Text = "Đăng ký";
+            this.btnRegister.UseVisualStyleBackColor = true;
+            this.btnRegister.Click += new System.EventHandler(this.btnRegister_Click);
             // 
             // labelUser
             // 
@@ -89,7 +102,7 @@
             this.pictureBox1.Location = new System.Drawing.Point(419, 31);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(220, 220);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
@@ -98,6 +111,7 @@
             // 
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(725, 293);
+            this.Controls.Add(this.btnRegister);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.labelPass);
             this.Controls.Add(this.labelUser);

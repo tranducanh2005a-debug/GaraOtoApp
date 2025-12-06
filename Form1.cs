@@ -23,6 +23,11 @@ namespace GaraOtoApp
         {
             
         }
+        private void btnRegister_Click(object sender, EventArgs e)
+        {
+            FormRegister formRegister = new FormRegister();
+            formRegister.ShowDialog(); // Hiện form đăng ký
+        }
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
